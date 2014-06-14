@@ -1,0 +1,4 @@
+sftpman
+=======
+
+SFTP Automation
